@@ -1,0 +1,2 @@
+# cadenas
+print("hola mundo")
